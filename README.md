@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello there!
 
-<!--
-**zethric/zethric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Zethric - I'm a developer from Germany focusing on Minecraft mods, and perhaps more in the future!
 
-Here are some ideas to get you started:
+### 🔧 Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tools](https://skillicons.dev/icons?i=linux,arch,java,kotlin,c)](https://skillicons.dev)
+
+### 🌐 Stats:
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=zethric&show_icons=true&theme=dark)](https://github.com/zethric)
+
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=zethric&layout=compact&theme=dark)](https://github.com/zethric)
