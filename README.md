@@ -1,6 +1,6 @@
 # Hello there!
 
-My name is Zethric - I'm a developer from Germany focusing on Minecraft mods, and perhaps more in the future!
+My name is Zethric - I'm a hobbyist developer from Germany focusing on Minecraft mods, and perhaps more in the future!
 
 ### 🔧 Tools:
 
