@@ -4,7 +4,7 @@ My name is Zethric - I'm a hobbyist developer from Germany focusing on Minecraft
 
 ### 🔧 Tools:
 
-[![Tools](https://skillicons.dev/icons?i=linux,arch,java,kotlin,c)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=windows,linux,arch,java,kotlin,c)](https://skillicons.dev)
 
 ### 🌐 Stats:
 
